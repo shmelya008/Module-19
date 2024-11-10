@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d8755604-7aaa-4998-b4d7-3f5d4afc9eb1" name="Changes" comment="10.11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoAdd/DjangoAdd/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoAdd/DjangoAdd/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DjangoAdd/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoAdd/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoAdd/db.sqlite3-journal" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DjangoAdd/task1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoAdd/task1/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,41 +19,41 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="19.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shmelya008"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shmelya008&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shmelya008/Module-19.git",
-    "accountId": "2a63ed21-8bdb-49dd-9236-78f445de13d3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shmelya008/Module-19.git&quot;,
+    &quot;accountId&quot;: &quot;2a63ed21-8bdb-49dd-9236-78f445de13d3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oercTXLP2ZEMITpZGaOCiCqtaL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.models.executor": "Run",
-    "Python.settings.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "19.1",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;19.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shmel\PycharmProjects\pythonProjectMod_19" />
@@ -105,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731250065906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10.11">
+      <option name="closed" value="true" />
+      <created>1731262895553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731262895553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
