@@ -1,0 +1,20 @@
+{% extends "menu.html" %}
+
+{% block title %}{{ block.super }}/{{ page_name }}{% endblock %}
+
+{% block page_name %}
+    <h2>{{ page_name }}</h2>
+{% endblock %}
+
+{% block menu %}
+    {{ block.super }}
+{% endblock %}
+
+{% block content %}
+<p><mark>{{ text }}</mark></p>
+    <ul>
+        {% for game in games %}
+            <li><h3><pre>{{ game }}    <button>Buy</button></pre></h3></li>
+        {% endfor %}
+    </ul>
+{% endblock %}

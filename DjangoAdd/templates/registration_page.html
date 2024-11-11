@@ -1,0 +1,31 @@
+{% extends "menu.html" %}
+
+{% block title %}{{ block.super }}/{{ page_name }}{% endblock %}
+
+{% block page_name %}
+    <h2>{{ page_name }}</h2>
+{% endblock %}
+
+{% block menu %}
+    {{ block.super }}
+{% endblock %}
+
+{% block content %}
+        <h3>{{ error }}</h3>
+    <form method="post">
+        {% csrf_token %}
+        <label for="username">Введите логин:</label>
+        <input type="text" id="username" name="username" maxlength="30" required>
+
+        <label for="password">Введите пароль:</label>
+        <input type="text" id="password" name="password" maxlength="8" required>
+
+        <label for="repeat_password">Повторите пароль:</label>
+        <input type="text" id="repeat_password" name="repeat_password" maxlength="8" required>
+
+        <label for="age">Введите свой возраст:</label>
+        <input type="int" id="age" name="age" maxlength="3" required>
+
+        <button type="submit">Отправить:</button>
+    </form>
+{% endblock %}
